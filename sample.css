@@ -10,9 +10,21 @@ p,li {
     font-family:'Pretendard';
     font-weight: 300;
     line-height: 1.8em;
+    list-style: none;
  }
 
- h2 {
+h2 {
     font-family:'Pretendard';
     font-weight: 700;
+ }
+
+a {
+    color: #262626;
+    text-decoration: none;
+    font-weight: 700;
+ }
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'PyeongChangPeace-Light';
  }
